@@ -1,5 +1,5 @@
 ## Spis treści: 
-* [TASK1]([TASK1](https://github.com/Yorven/challenge_portfolio_mateusz/blob/main/README.md#task1))
+* [TASK1](https://github.com/Yorven/challenge_portfolio_mateusz/blob/main/README.md#task1)
 # TASK1
 ## Subtask 1
 10 punktów :)
