@@ -1,7 +1,7 @@
 ## Spis treści: 
 * [TASK 1](https://github.com/Yorven/challenge_portfolio_mateusz/edit/main/README.md#task-1)
   * [Subtask 1](https://github.com/Yorven/challenge_portfolio_mateusz/edit/main/README.md#subtask-1)
-  * [Subtask 3](https://github.com/Yorven/challenge_portfolio_mateusz/edit/main/README.md#subtask-3)
+  * [Subtask 3](#Subtask-3)
   * [Subtask 4](https://github.com/Yorven/challenge_portfolio_mateusz/edit/main/README.md#subtask-4)
 # TASK 1
 ## Subtask 1
