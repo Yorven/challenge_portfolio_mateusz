@@ -1,4 +1,5 @@
 ## Spis treści: 
+* [TASK1](TASK1)
 # TASK1
 ## Subtask 1
 10 punktów :)
