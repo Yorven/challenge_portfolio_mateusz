@@ -1,22 +1,22 @@
 ## Spis treści: 
 * [TASK 1](#TASK-1)
-  * [Subtask 1.1](#Subtask-1.1)
-  * [Subtask 1.3](#Subtask-1.3)
-  * [Subtask 1.4](#Subtask-1.4)
+  * [Subtask 1](#Subtask-1)
+  * [Subtask 3](#Subtask-3)
+  * [Subtask 4](#Subtask-4)
 * [TASK 2](#TASK-2)
-  * [Subtask 2.1](#Subtask-2.1)
-  * [Subtask 2.2](#Subtask-2.2)
-  * [Subtask 2.3]
+  * [Subtask 1](#Subtask-1-1)
+  * [Subtask 2](#Subtask-2)
+  * [Subtask 3]
 # TASK 1
-## Subtask 1.1
+## Subtask 1
 10 punktów 😍
-## Subtask 1.3
+## Subtask 3
 Cześć! Mam na imię Mateusz. Zdecydowałem się na kurs, ponieważ chcę zdobyć praktyczną wiedzę z testowania, aby później móc wykorzystać ją na rozmowach rekrutacyjnych 😊
 
 Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzieję, że kurs ten chociaż w niewielkim stopniu pomoże mi wejść do świata IT! 💪
 
 ### *Matej*
-## Subtask 1.4
+## Subtask 4
 * Aplikacja skierowana jest dla skautów piłki nożnej, która umożliwia przeglądanie statystyk poszczególnych zawodników. Zawarte są w niej podstawowe dane personalne zawodników, ale też bardziej szczegółowe, jak ilość rozegranych meczów i minut spędzonych na boisku, preferowane pozycje, osiągnięcia, oceny piłkarzy, a nawet ilość celnych podań i strzałów na bramkę. Oprócz przeglądania, użytkownik może dodawać do bazy nowych zawodników i wprowadzać dane. 
 * Z funkcjonalności tej aplikacji można wymienić możliwość zalogowania się do niej i wylogowania, wprowadzenia nowego zawodnika do systemu, jego danych personalnych oraz statystyk i osiągnięć. Można wymienić jeszcze zmianę język na język angielski i polski. Możemy również stworzyć raport o danym zawodniku. Aplikacja jest dosyć prosta i intuicyjna. Należy jednak zmienić możliwości wprowadzania poszczególnych danych w konkretnych przypadkach tj. nie powinno być możliwości wprowadzenia minusowego numeru na koszulce zawodnika, ponieważ jest to objęte przepisami piłkarskimi, lub wpisania liter w polu z numerem telefonu. 
 * Jeśli chodzi o interfejs to jest on bardzo podstawowy. Zakładam, że jest on po prostu wystarczający, aby spełniać swoją funkcje, jednak z mojej strony można było by się bardziej postarać i go unowocześnić.
@@ -24,6 +24,6 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 * Żadnych krytycznych błędów nie udało mi się znaleść, aplikacja działa płynnie na [komputerze stacjonarnym](https://i.imgur.com/r3Nx6Bx.png), troche gorzej na [urządzeniach mobilnych](https://i.imgur.com/wGTsnlo.png). Jeśli chodzi o urządzenia mobilne to jest również [mniej czytelna](https://i.imgur.com/BIMcIb1.png), wszystko zlewa się w jedną dużą tabelę. Oczywiście błędem jest, tak jak wspomniałem wyżej, możliwość wpisywania nieprawidłowych informacji w konkretnych przypadkach, gdzie można wpisać datę urodzenia, która się jeszcze nie wydarzyła, przez co piłkarz ma minusową wartość wieku. 🤷‍♂️ 
 
 # TASK 2 
-## Subtask 2.1
+## Subtask 1
 [Link do folderu z zadaniem 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
-## Subtask 2.2 
+## Subtask 2 
