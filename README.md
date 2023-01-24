@@ -4,10 +4,8 @@
   * [Subtask 3](#Subtask-3)
   * [Subtask 4](#Subtask-4)
 * [TASK 2](#TASK-2)
-  * [Subtask 1](#Subtask-1-1)
-  * [Subtask 2](#Subtask-2)
+  * [Subtask 1](#Subtask-124)
   * [Subtask 3](#Subtask-3-1)
-  * [Subtask 4](#Subtask-4-1)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -25,10 +23,7 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 * Żadnych krytycznych błędów nie udało mi się znaleść, aplikacja działa płynnie na [komputerze stacjonarnym](https://i.imgur.com/r3Nx6Bx.png), troche gorzej na [urządzeniach mobilnych](https://i.imgur.com/wGTsnlo.png). Jeśli chodzi o urządzenia mobilne to jest również [mniej czytelna](https://i.imgur.com/BIMcIb1.png), wszystko zlewa się w jedną dużą tabelę. Oczywiście błędem jest, tak jak wspomniałem wyżej, możliwość wpisywania nieprawidłowych informacji w konkretnych przypadkach, gdzie można wpisać datę urodzenia, która się jeszcze nie wydarzyła, przez co piłkarz ma minusową wartość wieku. 🤷‍♂️ 
 
 # TASK 2 
-## Subtask 1
-[Link do folderu z zadaniem 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
-## Subtask 2 
-[Link do folderu z zadaniem 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
+## Subtask 1/2/4
+[Tutaj znajduje się link do zadań 1, 2 i 4 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
 ## Subtask 3
  Przypadki testowe mają więcej niż jedną funkcjonalność. Najważniejszą i najbardziej oczywistą funkcją jest to, że pomagają one usystematyzować pracę testera. Dobre wykorzystanie przypadków testowych zwiększa szanse, że podczas testowania nie została pominięta żadna funkcjonalność danego oprogramowania. Test case'y możemy wykorzystać do stworzenia raportów z wykonanych testów. Są one również bardzo przydatne dla nowych pracwników, poznieważ ułatwiają one wdrożenie się do projektu i lepsze poznanie badanego produktu. Mogą być one również bardzo pomocne przy prowadzeniu testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami.
- ## Subtask 4
