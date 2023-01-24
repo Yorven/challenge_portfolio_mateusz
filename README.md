@@ -6,7 +6,7 @@
 * [TASK 2](#TASK-2)
   * [Subtask 1](#Subtask-1-1)
   * [Subtask 2](#Subtask-2)
-  * [Subtask 3]
+  * [Subtask 3](#Subtask-3-1)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -27,3 +27,5 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 ## Subtask 1
 [Link do folderu z zadaniem 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
 ## Subtask 2 
+[Link do folderu z zadaniem 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
+## Subtask 3
