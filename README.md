@@ -4,7 +4,7 @@
   * [Subtask 3](#Subtask-3)
   * [Subtask 4](#Subtask-4)
 * [TASK 2](#TASK-2)
-  * [Subtask 1](#Subtask-124)
+  * [Subtask 1/2/4](#Subtask-124)
   * [Subtask 3](#Subtask-3-1)
 # TASK 1
 ## Subtask 1
