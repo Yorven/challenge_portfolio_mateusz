@@ -8,7 +8,7 @@
   * [Subtask 3](#Subtask-3-1)
 * [TAST 3](#TASK-3)
   * [Subtask 1/2](#Subtask-12)
-  * [Subtask 3](#Substak-3-2)
+  * [Subtask 3](#Subtask-3-2)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
