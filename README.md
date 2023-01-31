@@ -6,6 +6,9 @@
 * [TASK 2](#TASK-2)
   * [Subtask 1/2/4](#Subtask-124)
   * [Subtask 3](#Subtask-3-1)
+* [TAST 3](#TASK-3)
+  * [Subtask 1/2](#Subtask-12)
+  * [Subtask 3](#Substak-3-2)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -27,3 +30,10 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 [Tutaj znajduje się link do zadań 1, 2 i 4 🙂](https://drive.google.com/drive/u/0/folders/1DKXyEYcWT9YnBJxrgFA3jecXDBWXojhu)
 ## Subtask 3
  Przypadki testowe mają więcej niż jedną funkcjonalność. Najważniejszą i najbardziej oczywistą funkcją jest to, że pomagają one usystematyzować pracę testera. Dobre wykorzystanie przypadków testowych zwiększa szanse, że podczas testowania nie została pominięta żadna funkcjonalność danego oprogramowania. Test case'y możemy wykorzystać do stworzenia raportów z wykonanych testów. Są one również bardzo przydatne dla nowych pracwników, poznieważ ułatwiają one wdrożenie się do projektu i lepsze poznanie badanego produktu. Mogą być one również bardzo pomocne przy prowadzeniu testów akceptacyjnych w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami.
+# TASK 3
+## Subtask 1/2
+[Link do przeprowadzonych przypadków testowych 🚸](https://docs.google.com/document/d/1ShAxMBtIM40MEusP4MH9FDpRaejc_5dtY5cBYaVR0js/edit)
+
+[Tutaj z kolei link do zgłoszonych błędów 🐛 ⚠️](https://docs.google.com/document/d/19cX4sEr1jw9WlRcaCw_JHbZvCTCcQ3VMrDPWIucBRAs/edit)
+## Subtask 3
+[Link do raportu z przeprowadzonych testów 📊 📋](https://docs.google.com/document/d/111OiOHOOgi_N0JeAoB5dKNwR5lswSNp4GmUJku2X6UY/edit)
