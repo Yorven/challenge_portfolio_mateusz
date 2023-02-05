@@ -6,9 +6,13 @@
 * [TASK 2](#TASK-2)
   * [Subtask 1/2/4](#Subtask-124)
   * [Subtask 3](#Subtask-3-1)
-* [TAST 3](#TASK-3)
+* [TASK 3](#TASK-3)
   * [Subtask 1/2](#Subtask-12)
   * [Subtask 3](#Subtask-3-2)
+* [TASK 4](#TASK-4)
+  * [Subtask 1](#Subtask-1-1)
+  * [Subtask 2](#Subtask-2)
+  * [Subtask 3](#Subtask-3-3)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -37,3 +41,9 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 [Tutaj z kolei link do zgłoszonych błędów 🐛 ⚠️](https://docs.google.com/document/d/19cX4sEr1jw9WlRcaCw_JHbZvCTCcQ3VMrDPWIucBRAs/edit)
 ## Subtask 3
 [Link do raportu z przeprowadzonych testów 📊 📋](https://docs.google.com/document/d/111OiOHOOgi_N0JeAoB5dKNwR5lswSNp4GmUJku2X6UY/edit)
+# TASK 4
+## Subtask 1
+[Zadanie pierwsze](https://docs.google.com/document/d/1m49ghZ1noJGhgvZ5sWKtXzdXWqYUSKW9yZNhlVX8C_I/edit)
+## Subtask 2
+[A tutaj drugie 🙂](https://docs.google.com/document/d/1FduMwhyPuHoQ42iQjNX-fywfPtNZZBhIic7fNHHmbfs/edit)
+## Subtask 3
