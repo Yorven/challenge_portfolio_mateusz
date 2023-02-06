@@ -47,3 +47,8 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 ## Subtask 2
 [A tutaj drugie 🙂](https://docs.google.com/document/d/1FduMwhyPuHoQ42iQjNX-fywfPtNZZBhIic7fNHHmbfs/edit)
 ## Subtask 3
+* Platforma OLX złuży do kupowania i sprzedawania usług i towarów takich jak elektronika, artykuły odieżowe, artykuły gospodarstwa domowego, meble, somochody i nieruchomości. Ponadto jest możliwość dodawania i przeglądania ofert pracy.
+* Użytkownikiem końcowym tej aplikacji jest sprzedający, kupujący, oraz pracodawcy i osoby poszukujące pracy.
+* Jeżeli chodzi o user friendly to zdecydowanie właściciele aplikacji większą uwagę przywiązują do użytkowników Androida. Tutaj aplikacja jest intuicyjna i dopracowana. Nowy użytkownik z łatwością odnajdzie sie w tej aplikacji. Z kolei jeśli chodzi o użytkowników Appla... Tutaj jest inna sprawa. Aplikacja jest 18 wersji starsza od tej na Androida! Wersja dla użytkowników iOS'a jest bardziej zbugowana i widać w niej jeszcze rozwiązania, które są nieintuicyjne jak np. pole dodania zdjęcia do ogłoszenia, gdzie dla wersji na Androida dawno już udoskonalili aplikacje. Jednym słowem dyskryminacja 🥺
+* Zaktualizować wersje na iOS! 😆 A tak poza tym to aplikacja wydaje się mieć wszystkie potrzebne funkcje dla komfortowego użytkowania. Po prostu nie zmienia się tego co jest już dobre 🙂
+* Z pewnością testowanie aplikacji mobilnych od aplikacji webowych różni się zestawem narzędzi, które możemy do tego wykorzystać. Z kolei jeśłi chodzi o testy eksploracyjne, to testowanie obu typów aplikacji wydaje się być podobne, nie licząc rozmiaru ekranu 😜
