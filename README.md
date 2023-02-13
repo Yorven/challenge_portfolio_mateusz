@@ -13,6 +13,8 @@
   * [Subtask 1](#Subtask-1-1)
   * [Subtask 2](#Subtask-2)
   * [Subtask 3](#Subtask-3-3)
+* [TASK 5](#TASK-5)
+  * [Subtask 1](#Subtask-1-2)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -52,3 +54,6 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 * Jeżeli chodzi o user friendly to zdecydowanie właściciele aplikacji większą uwagę przywiązują do użytkowników Androida. Tutaj aplikacja jest intuicyjna i dopracowana. Nowy użytkownik z łatwością odnajdzie sie w tej aplikacji. Z kolei jeśli chodzi o użytkowników Appla... Tutaj jest inna sprawa. Aplikacja jest 18 wersji starsza od tej na Androida! Wersja dla użytkowników iOS'a jest bardziej zbugowana i widać w niej jeszcze rozwiązania, które są nieintuicyjne jak np. pole dodania zdjęcia do ogłoszenia, gdzie dla wersji na Androida dawno już udoskonalili aplikacje. Jednym słowem dyskryminacja 🥺
 * Zaktualizować wersje na iOS! 😆 A tak poza tym to aplikacja wydaje się mieć wszystkie potrzebne funkcje dla komfortowego użytkowania. Po prostu nie zmienia się tego co jest już dobre 🙂
 * Z pewnością testowanie aplikacji mobilnych od aplikacji webowych różni się zestawem narzędzi, które możemy do tego wykorzystać. Z kolei jeśłi chodzi o testy eksploracyjne, to testowanie obu typów aplikacji wydaje się być podobne, nie licząc rozmiaru ekranu 😜
+# TASK 5 
+## Subtask 1 
+Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, ORDER BY, JOIN, AS, BETWEEN, IS, AND, LIKE, OR, oraz nauczyłem się funkcji takich jak: GETDATE, UPPER, LOWER, DATEDIFF, COUNT, SUM, MIN, 
