@@ -60,6 +60,8 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, ORDER BY, JOIN, AS, BETWEEN, IS, AND, LIKE, OR, oraz nauczyłem się funkcji takich jak: GETDATE, UPPER, LOWER, DATEDIFF, COUNT, SUM, MIN, 
 ## Subtask 3
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
 SELECT * FROM actors
+
 ORDER BY surname
 ![0lEJ9uy](https://user-images.githubusercontent.com/3789650/218763255-1e594436-edb0-441c-a970-e2faeb462ede.png)
