@@ -64,4 +64,6 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 SELECT * FROM actors
 
 ORDER BY surname
+
+
 ![0lEJ9uy](https://user-images.githubusercontent.com/3789650/218763255-1e594436-edb0-441c-a970-e2faeb462ede.png)
