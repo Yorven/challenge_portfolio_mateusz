@@ -85,3 +85,9 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 **5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
 
+![image](https://user-images.githubusercontent.com/3789650/218781023-4fbb69e2-9d16-43e6-9e39-16afbd5b0efe.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218781048-f2eab943-badd-4242-894a-5a438a8bba93.png)
+
+**6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
+
