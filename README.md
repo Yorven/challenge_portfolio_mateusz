@@ -91,3 +91,15 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 **6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
 
+![image](https://user-images.githubusercontent.com/3789650/218783356-95f9c956-b8ad-4921-a8b8-12eb42d992a0.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218783390-5d33ea27-2c55-4106-a092-060546975fb6.png)
+
+**7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
+
+![image](https://user-images.githubusercontent.com/3789650/218784427-6829d488-0c80-4ce5-9871-e1a73c6f6bfd.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218784453-37093a71-30f6-4d7b-873b-88082e56e8b2.png)
+
+**8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
+
