@@ -79,3 +79,9 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 **4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
 
+![image](https://user-images.githubusercontent.com/3789650/218772495-d05cc50e-ff53-47fc-9747-b0074cd9ceb0.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218772521-3a118493-db69-4755-8f58-0d9002b49582.png)
+
+**5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
+
