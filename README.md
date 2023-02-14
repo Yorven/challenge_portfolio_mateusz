@@ -73,3 +73,9 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 **3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
 
+![image](https://user-images.githubusercontent.com/3789650/218769077-2d8127f1-0c8f-49d1-8014-68e1a6f44d68.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218769104-ad46a329-3bf1-402b-a0b4-23102bc3c980.png)
+
+**4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
+
