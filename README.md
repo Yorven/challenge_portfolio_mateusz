@@ -15,6 +15,7 @@
   * [Subtask 3](#Subtask-3-3)
 * [TASK 5](#TASK-5)
   * [Subtask 1](#Subtask-1-2)
+  * [Subtask 3](#Subtask-3-4)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -57,3 +58,4 @@ Poza tym traktuję to jako wyzwanie, aby nauczyć się czegoś nowego! Mam nadzi
 # TASK 5 
 ## Subtask 1 
 Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, ORDER BY, JOIN, AS, BETWEEN, IS, AND, LIKE, OR, oraz nauczyłem się funkcji takich jak: GETDATE, UPPER, LOWER, DATEDIFF, COUNT, SUM, MIN, 
+## Subtask 3
