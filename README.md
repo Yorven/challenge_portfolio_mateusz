@@ -103,3 +103,11 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 **8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
 
+![image](https://user-images.githubusercontent.com/3789650/218785522-7645c688-11bd-4ba1-a2e7-3fd51ec833f8.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218785545-952c77ea-3f8f-4cd7-8adc-164beb1bf4ef.png)
+
+**9. Wyświetl dane klienta, który nie ma podanego adresu email.**
+
+![image](https://user-images.githubusercontent.com/3789650/218786205-ce0ef6b1-cae4-4b0b-b974-d22f996bf6f0.png)
+![image](https://user-images.githubusercontent.com/3789650/218786220-80ef94ff-f66d-4a54-bd1c-569a51b1c043.png)
