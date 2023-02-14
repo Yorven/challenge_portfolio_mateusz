@@ -110,4 +110,11 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 **9. Wyświetl dane klienta, który nie ma podanego adresu email.**
 
 ![image](https://user-images.githubusercontent.com/3789650/218786205-ce0ef6b1-cae4-4b0b-b974-d22f996bf6f0.png)
+
 ![image](https://user-images.githubusercontent.com/3789650/218786220-80ef94ff-f66d-4a54-bd1c-569a51b1c043.png)
+
+**10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**
+
+![image](https://user-images.githubusercontent.com/3789650/218787821-fcdb4858-d1a1-4c70-b36e-5d65d492e63b.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218787856-19c19e81-b1d7-4d30-af2f-24f6ce4422f1.png)
