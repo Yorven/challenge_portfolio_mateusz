@@ -61,9 +61,7 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 ## Subtask 3
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-SELECT * FROM actors
-
-ORDER BY surname
+![image](https://user-images.githubusercontent.com/3789650/218764168-b2165353-7918-4d55-b11d-d0d501477782.png)
 
 
 ![0lEJ9uy](https://user-images.githubusercontent.com/3789650/218763255-1e594436-edb0-441c-a970-e2faeb462ede.png)
