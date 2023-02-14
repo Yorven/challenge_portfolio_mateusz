@@ -63,5 +63,13 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 
 ![image](https://user-images.githubusercontent.com/3789650/218764168-b2165353-7918-4d55-b11d-d0d501477782.png)
 
-
 ![0lEJ9uy](https://user-images.githubusercontent.com/3789650/218763255-1e594436-edb0-441c-a970-e2faeb462ede.png)
+
+**2. Wyświetl film, który powstał w 2019 roku.**
+
+![image](https://user-images.githubusercontent.com/3789650/218767859-41bbb62f-0fee-4c72-a8cb-d9f67728c958.png)
+
+![image](https://user-images.githubusercontent.com/3789650/218768201-b622b015-ebb7-4cd4-bd61-4d794292231f.png)
+
+**3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
+
