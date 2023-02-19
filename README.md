@@ -129,3 +129,12 @@ UPDATE customers SET surname = 'Miler' WHERE customer_id = 3
 ![image](https://user-images.githubusercontent.com/3789650/219946024-76b053a8-010d-419e-8517-cb007bdd7ea9.png)
 
 **12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
+```
+SELECT * FROM sale 
+JOIN customers 
+ON sale.customer_id = customers.customer_id 
+WHERE movie_id = 4
+```
+![image](https://user-images.githubusercontent.com/3789650/219951284-967dcc0a-6670-48f1-b575-b490ceefc739.png)
+
+**13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
