@@ -16,6 +16,8 @@
 * [TASK 5](#TASK-5)
   * [Subtask 1](#Subtask-1-2)
   * [Subtask 3](#Subtask-3-4)
+* [TASK 6](#TASK-6)
+  * [Subtask 1](#Subtask-1-3)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -118,3 +120,6 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 ![image](https://user-images.githubusercontent.com/3789650/218787821-fcdb4858-d1a1-4c70-b36e-5d65d492e63b.png)
 
 ![image](https://user-images.githubusercontent.com/3789650/218787856-19c19e81-b1d7-4d30-af2f-24f6ce4422f1.png)
+# TASK 6
+# Subtask 1 
+
