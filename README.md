@@ -122,4 +122,10 @@ Podczas kursu nauczyłem się takich komend jak: SELECT, FROM, GROUP BY, WHERE, 
 ![image](https://user-images.githubusercontent.com/3789650/218787856-19c19e81-b1d7-4d30-af2f-24f6ce4422f1.png)
 # TASK 6
 # Subtask 1 
+**11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈**
+```
+UPDATE customers SET surname = 'Miler' WHERE customer_id = 3 
+```
+![image](https://user-images.githubusercontent.com/3789650/219946024-76b053a8-010d-419e-8517-cb007bdd7ea9.png)
 
+**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
