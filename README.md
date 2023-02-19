@@ -144,4 +144,10 @@ UPDATE customers SET email = 'pati@mail.com' WHERE customer_id = 4
 ![image](https://user-images.githubusercontent.com/3789650/219951700-66720903-f32f-466e-8f08-7aea887f7346.png)
 
 **14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
+```
+SELECT s.customer_id, s.movie_id, s.sale_date, c.name, c.surname, m.title FROM sale AS s
+INNER JOIN customers AS c ON s.customer_id = c.customer_id INNER JOIN movies AS m ON s.movie_id = m.movie_id
+```
+![image](https://user-images.githubusercontent.com/3789650/219955875-f7d0464b-56de-4be9-a03d-317989890581.png)
 
+**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
