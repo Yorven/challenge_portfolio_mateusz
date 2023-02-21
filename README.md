@@ -18,6 +18,8 @@
   * [Subtask 3](#Subtask-3-4)
 * [TASK 6](#TASK-6)
   * [Subtask 1](#Subtask-1-3)
+  * [Subtask 2](#Subtask-2-1)
+  * [Subtask 3](#Subtask-3-5)
 # TASK 1
 ## Subtask 1
 10 punktów 😍
@@ -165,3 +167,24 @@ ON sale.movie_id = movies.movie_id
 
 **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
 ```
+SELECT name FROM actors
+UNION
+SELECT name FROM customers 
+ORDER BY name 
+```
+![image](https://user-images.githubusercontent.com/3789650/220190355-8f2ef717-d816-47ba-981e-d903bc4254e6.png)
+
+**18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
+```
+UPDATE movies 
+SET price = price + 2.5 
+WHERE year_of_production > 2000
+```
+![image](https://user-images.githubusercontent.com/3789650/220192662-9975e6f5-0960-4080-abb7-4ec80b9ca2aa.png)
+
+**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.**
+
+## Subtask 2 
+![image](https://user-images.githubusercontent.com/3789650/220428589-13f7d029-9284-42a9-a795-5182c05877e6.png)
+
+## Subtask 3
