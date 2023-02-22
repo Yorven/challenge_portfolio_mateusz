@@ -186,6 +186,20 @@ WHERE year_of_production > 2000
 ![image](https://user-images.githubusercontent.com/3789650/220192662-9975e6f5-0960-4080-abb7-4ec80b9ca2aa.png)
 
 **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.**
+```
+SELECT actors.name, actors.surname, movies.title FROM actors
+JOIN cast ON actors.actor_id = cast.actor_id 
+JOIN movies ON cast.movie_id = movies.movie_id
+WHERE actors.actor_id = 4
+```
+![image](https://user-images.githubusercontent.com/3789650/220730616-6796323c-11b2-4e29-9552-908d6176bc40.png)
+
+**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
+```
+INSERT INTO customers(customer_id, name, surname, email, pseudonym) 
+VALUES(7, 'Honia', 'Sztuczka-Kucharska', 'honia@email.com', 'Hoa')
+```
+![image](https://user-images.githubusercontent.com/3789650/220731735-9e53fd8d-2322-4e30-8233-06ff43dd3bc0.png)
 
 ## Subtask 2 
 ![image](https://user-images.githubusercontent.com/3789650/220428589-13f7d029-9284-42a9-a795-5182c05877e6.png)
