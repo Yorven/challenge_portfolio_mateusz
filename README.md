@@ -155,9 +155,11 @@ INNER JOIN customers AS c ON s.customer_id = c.customer_id INNER JOIN movies AS 
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 ```
-ALTER TABLE customers 
-ADD pseudonym int 
+ALTER TABLE customers ADD pseudonym VARCHAR(200);
+UPDATE customers SET pseudonym=concat(LEFT(name,2),RIGHT(surname,1));
 ```
+![image](https://user-images.githubusercontent.com/3789650/220728159-9085159b-eef7-4286-a756-c23ea3606d83.png)
+
 **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 ```
 SELECT DISTINCT sale.movie_id, movies.title FROM sale
